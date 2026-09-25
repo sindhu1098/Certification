@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Sindhura👋 
 
-<!--
-**sindhu1098/sindhu1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 Certifications
 
-Here are some ideas to get you started:
+### 💻 Cybersecurity & Tech
+* **Google Cybersecurity** - Issued by Coursera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Verify Certificate](https://img.shields.io/badge/Verify-Credential-blue?style=for-the-badge&logo=coursera)](https://coursera.org/share/6ddb9337544b1a4adcc0f33d32f99573)
+
+---
+
+### 🛠️ Projects & Skills
+* 🔍 **Focus Areas:** Information Security | Risk Management
+* ⚙️ **Tools:** Git, VS Code, Linux, SQL
