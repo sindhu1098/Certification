@@ -10,5 +10,5 @@
 ---
 
 ### 🛠️ Projects & Skills
-* 🔍 **Focus Areas:** Information Security | Risk Management
+* 🔍 **Focus Areas:** Information Security | Risk Management | Assets, Threats and Vulnerabilities | Network Security
 * ⚙️ **Tools:** Git, VS Code, Linux, SQL
